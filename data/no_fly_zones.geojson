@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type":"Feature",
+
+      "properties":{
+
+        "name":"Airport Zone",
+
+        "level":"High"
+
+      },
+
+      "geometry":{
+
+        "type":"Polygon",
+
+        "coordinates":[
+          [
+            [30.50,50.44],
+            [30.54,50.44],
+            [30.54,50.47],
+            [30.50,50.47],
+            [30.50,50.44]
+          ]
+        ]
+
+      }
+
+    }
+  ]
+}
